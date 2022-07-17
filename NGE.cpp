@@ -1,3 +1,6 @@
+/*
+Kep in mind that this can be used to sort an array using stack as in this case here the the stack at the end when i becomes -1 will give a sorted stack !!
+*/
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
